@@ -1,0 +1,12 @@
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Log
+*.log
